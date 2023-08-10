@@ -117,10 +117,6 @@ p {
     font-size: 36px;
 }
 
-p {
-    font-size: 16px;
-}
-
 .content {
     width: 75%;
     display: inline-block;
@@ -140,18 +136,9 @@ p {
     max-height: 200px;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
-
-p {
-    font-size: 16px;
 }
 
 .benefits {
@@ -175,10 +162,6 @@ p {
     text-align: center;
 }
 
-p {
-    font-size: 16px;
-}
-
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -193,10 +176,6 @@ p {
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
-}
-
-p {
-    font-size: 16px;
 }
 
 .benefit-brand img {
@@ -215,10 +194,6 @@ p {
     text-align: center;
 }
 
-p {
-    font-size: 16px;
-}
-
 .benefit-cost img {
     display: block;
     margin: 10px auto;
@@ -234,8 +209,4 @@ p {
 
 .footer h2 {
     font-size: 20px;
-}
-
-p {
-    font-size: 16px;
 }
