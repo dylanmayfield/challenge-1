@@ -16,7 +16,7 @@ CSS file is properly commented
 
 # Link to Website
 
-http://127.0.0.1:5500/Develop/index.html
+https://dylanmayfield.github.io/challenge-1/
 
 
 
